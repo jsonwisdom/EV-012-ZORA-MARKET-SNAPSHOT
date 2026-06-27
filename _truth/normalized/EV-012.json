@@ -1,0 +1,27 @@
+{
+  "id": "EV-012",
+  "event": "ZORA_MARKET_SNAPSHOT",
+  "status": "SCREENSHOT_VERIFIED",
+  "source": {
+    "type": "user_provided_screenshot",
+    "raw_observation_path": "_truth/events/EV-012/raw.md",
+    "raw_observation_commit": "bf374ac",
+    "profile": "@jaywisdom"
+  },
+  "observed": {
+    "creator_coin_display_value": "$6.25k",
+    "posts": "1k",
+    "holders": 103,
+    "holding": 111,
+    "followers": 753,
+    "following": 266
+  },
+  "not_observed": [
+    "api_response",
+    "24h_volume",
+    "market_cap_calculation_method",
+    "post_screenshot_changes"
+  ],
+  "authority": "jaywisdom.base.eth",
+  "guardrail": "NO_FAKE_GREEN"
+}
