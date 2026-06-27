@@ -10,7 +10,7 @@
     "normalized": {
       "path": "_truth/normalized/EV-012.json",
       "commit": "2b7dfda",
-      "sha256": "0c0868288fb0f28f2dd6cad9612454591481bc2599487ef494adec8b10ba5a4a"
+      "sha256": "be9d2c505cb9736da9720c4da91e1a4f9712f3292414f3423a4a508dbc454cca"
     },
     "manifest": {
       "path": "_truth/manifest.json",
@@ -18,7 +18,7 @@
     },
     "sha256_receipt": {
       "path": "_truth/receipts/EV-012.sha256",
-      "commit": "a472029"
+      "commit": "ed725a6"
     }
   },
   "verification": {
