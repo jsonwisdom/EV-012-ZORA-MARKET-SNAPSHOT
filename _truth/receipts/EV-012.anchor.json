@@ -1,0 +1,12 @@
+{
+  "ev_id": "EV-012",
+  "vessel": "Zora Market Snapshot",
+  "anchor_type": "immutable_receipt_anchor",
+  "receipt": {
+    "path": "_truth/receipts/EV-012.receipt.json",
+    "commit": "2aef0866f23a65a50ab97f242f60f53400fe64ea"
+  },
+  "verification_hash": "9a240603d4257e3ab7a20193777334d16a9beaeb6034ba21f48392941f662026",
+  "status": "anchored",
+  "replayable": true
+}
