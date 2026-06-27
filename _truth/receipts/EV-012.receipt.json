@@ -1,0 +1,33 @@
+{
+  "ev_id": "EV-012",
+  "vessel": "Zora Market Snapshot",
+  "receipt_type": "structured_verification_receipt",
+  "chain": {
+    "raw": {
+      "path": "_truth/events/EV-012/raw.md",
+      "commit": "bf374ac"
+    },
+    "normalized": {
+      "path": "_truth/normalized/EV-012.json",
+      "commit": "2b7dfda",
+      "sha256": "0c0868288fb0f28f2dd6cad9612454591481bc2599487ef494adec8b10ba5a4a"
+    },
+    "manifest": {
+      "path": "_truth/manifest.json",
+      "commit": "b22cde6"
+    },
+    "sha256_receipt": {
+      "path": "_truth/receipts/EV-012.sha256",
+      "commit": "a472029"
+    }
+  },
+  "verification": {
+    "status": "sealed",
+    "replayable": true,
+    "sync_state": [
+      "HEAD",
+      "origin/main",
+      "origin/HEAD"
+    ]
+  }
+}
