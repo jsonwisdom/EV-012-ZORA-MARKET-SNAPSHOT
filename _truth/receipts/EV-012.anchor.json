@@ -4,9 +4,9 @@
   "anchor_type": "immutable_receipt_anchor",
   "receipt": {
     "path": "_truth/receipts/EV-012.receipt.json",
-    "commit": "2aef0866f23a65a50ab97f242f60f53400fe64ea"
+    "commit": "ea2b8190b5ed368b0cc5a9451fc796c1baaf58e0"
   },
-  "verification_hash": "9a240603d4257e3ab7a20193777334d16a9beaeb6034ba21f48392941f662026",
+  "verification_hash": "86efc7177daa2850439e12b1eba448fe7a06aee80e7eb9d1b5fc99011cd8d67f",
   "status": "anchored",
   "replayable": true
 }
