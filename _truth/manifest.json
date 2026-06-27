@@ -1,0 +1,8 @@
+{
+  "schema": "EV-012-MANIFEST-V1",
+  "project": "EV-012",
+  "description": "Self-describing manifest for replay tooling.",
+  "artifacts": [
+    "_truth/normalized/EV-012.json"
+  ]
+}
